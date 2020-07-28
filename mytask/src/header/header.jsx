@@ -4,7 +4,7 @@ import React from "react";
 function template() {
   return (
     <div className="header">
-      <h1>header</h1>
+      <h1>Bertha’s Deluxe Chocolates Factory</h1>
     </div>
   );
 };

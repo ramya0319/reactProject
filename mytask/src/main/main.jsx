@@ -8,9 +8,9 @@ function template() {
   return (
     <div className="main">
       <h1>
-        main<Header />
-      <Menu />
-      <Category />
+        <Header />
+        <Menu />
+        <Category />
       </h1>
       
     </div>
